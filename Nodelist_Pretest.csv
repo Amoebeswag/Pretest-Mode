@@ -1,0 +1,17 @@
+id,lable,type
+ccp,Coco Chanel,designer
+cdp,Christian Dior,designer
+klp,Karl Lagerfeld,designer
+pcp,Piere Cardon,designer
+yslp,Yve Saint Laurent,designer
+fsp,Fendi Schwestern,designer
+cbp,Cristobal Balenciaga,designer
+hdgp,Hubert de Givenchy,designer
+ccm,Chanel SAS,modehaus
+cdm,Dior SA,modehaus
+klm,Karl Lagerfeld gmbh,modehaus
+pcm,Piere Cardon gmbh,modehaus
+yslm,Yve Saint Laurent SAS,modehaus 
+fsm,Fendi SRL,modehaus 
+cbm,Balenciaga SA,modehaus
+hdgm,Givenchy SA,modehaus 
